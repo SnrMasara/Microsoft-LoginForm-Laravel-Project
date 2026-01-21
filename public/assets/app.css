@@ -332,6 +332,7 @@ img{
 
 /* Add page background image for auth pages and make the auth card stand out */
 .auth-page{
+    background-image: url('/assets/bg.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
